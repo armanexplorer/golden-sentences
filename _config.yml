@@ -11,3 +11,7 @@ collections:
   slang:
     output: true
     permalink: /:collection/:name
+  
+  vocabulary:
+    output: true
+    permalink: /:collection/:name

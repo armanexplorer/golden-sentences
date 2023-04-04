@@ -1,6 +1,6 @@
 ---
 layout: default
-title: get to be
+title: Get to be
 description: The examples of get to be grammar
 ---
 
