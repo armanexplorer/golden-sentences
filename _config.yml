@@ -1,0 +1,13 @@
+collections:
+
+  grammar:
+    output: true
+    permalink: /:collection/:name
+
+  idiom:
+    output: true
+    permalink: /:collection/:name
+
+  slang:
+    output: true
+    permalink: /:collection/:name
